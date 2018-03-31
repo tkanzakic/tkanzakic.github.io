@@ -21,7 +21,7 @@ theme_settings:
 
   # Icons
   rss: true
-  email_address: "tkanzakic@gmail.com" # Full email address, e.g. "sam@example.com"
+  email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
