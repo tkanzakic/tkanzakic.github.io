@@ -1,2 +1,3 @@
-source "https://rubygems.org"
-gem "type-on-strap"
+source 'https://rubygems.org'
+
+gemspec
