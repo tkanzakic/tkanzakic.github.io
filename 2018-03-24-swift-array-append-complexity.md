@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Swift Array.append complexity
 tags: [swift, complexity, array, append, benchmark]
 ---
@@ -157,3 +157,5 @@ As promised, we also tested the code running inside an iOS project and all the p
 | iPhone 7           | 0.06                     | 0.03                     |
 
 in all cases using Xcode 9.3 and Swift 4.1.
+
+[back](./)
