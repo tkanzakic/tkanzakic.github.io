@@ -5,9 +5,10 @@ layout: default
 # Posts
 
 ## - [Swift Array.append complexity](2018-03-24-swift-array-append-complexity)
-In this post I write about the time consumed by the `Array.append` method in
-a Swift Playground, a workaround and how this drawbacks disappears when the
-code is used in an iOS project instead of a Playground.
+In this post I started writing about an issue I founded with the time consumed
+by the `Array.append` method in a Swift Playground and how we turn it around.
+To finish commenting how the issue disappears once we move the code outside of
+Playground main file.
 
 ----
 
